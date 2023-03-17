@@ -1,0 +1,12 @@
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\bin\Debug\Jankenpon.exe.config
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\bin\Debug\Jankenpon.exe
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\bin\Debug\Jankenpon.pdb
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.csproj.AssemblyReference.cache
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.main.resources
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.JuegoJan.resources
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.Properties.Resources.resources
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.csproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.exe
+C:\Users\Estudiante\source\repos\Ejercicios de clase\Jankenpon\Jankenpon\obj\Debug\Jankenpon.pdb
